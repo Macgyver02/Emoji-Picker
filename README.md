@@ -35,6 +35,7 @@ npm install emoji-picker
 
 Or you can clone the repository directly:
 
+
 ```bash
 git clone https://github.com/Macgyver02/Emoji-Picker.git
 ```
@@ -66,6 +67,7 @@ Here’s a basic example of how to use the Emoji Picker in your project:
 </body>
 </html>
 ```
+
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request. For more details, check out the [contributing guidelines](CONTRIBUTING.md).
