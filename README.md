@@ -1,6 +1,5 @@
 # Emoji Picker
 
-
 ![License](https://img.shields.io/github/license/Macgyver02/Emoji-Picker)
 ![Stars](https://img.shields.io/github/stars/Macgyver02/Emoji-Picker)
 ![Forks](https://img.shields.io/github/forks/Macgyver02/Emoji-Picker)
@@ -15,7 +14,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 ## Introduction
 
