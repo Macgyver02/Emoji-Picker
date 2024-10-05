@@ -3,7 +3,9 @@
 ![License](https://img.shields.io/github/license/Macgyver02/Emoji-Picker)
 ![Stars](https://img.shields.io/github/stars/Macgyver02/Emoji-Picker)
 ![Forks](https://img.shields.io/github/forks/Macgyver02/Emoji-Picker)
-![Issues](https://img.shields.io/github/issues/Macgyver02/Emoji-Picker)
+![Issues]
+
+(https://img.shields.io/github/issues/Macgyver02/Emoji-Picker)
 
 
 ## Table of Contents
@@ -27,7 +29,6 @@ Emoji Picker is a simple and customizable emoji picker component for your web ap
 - Supports multiple platforms and browsers.
 
 ## Installation
-
 
 You can install the Emoji Picker using npm:
 
